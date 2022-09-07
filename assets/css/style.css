@@ -25,18 +25,38 @@ h1{
    
 * u {
     color: white;
+}h1
+
+ul{
+
+}
+ 
+.center{
+    display: flex;
 }
 
-
-.bloc {
- display: flex;
- background: rgb(113,113,133);
- width: 100px;
- height: 100px;
+section{
+    width: 75%;
 }
 
+aside{
+    background: rgb(196, 191, 180);
+    width: 25%;
+}
+header{
+    display: flex;
+}
+header p{
+    margin: auto;
+    font: size 200;
+}
+   
     
-    
+
+
+
+
+
  
         
 
