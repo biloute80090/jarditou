@@ -3,7 +3,6 @@ ul{
     color: white;
     padding: 20px;
     
-    }heading{
     font-size: small;
     
 }
@@ -25,10 +24,10 @@ h1{
    
 * u {
     color: white;
-}h1
+}
 
-ul{
-
+h1{
+    font-size: 50px;
 }
  
 .center{
@@ -48,10 +47,17 @@ header{
 }
 header p{
     margin: auto;
-    font: size 200;
+    font: size 200%;
 }
-   
-    
+
+
+@media screen and (max-width: 768px) {
+    html{
+        font-size: 30px;
+        }
+        aside{
+            display: none;
+        }
 
 
 
