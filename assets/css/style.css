@@ -2,15 +2,19 @@ ul{
     background-color: black;
     color: white;
     padding: 20px;
+  }  
     
+nav li{
+    display: inline;
+}
+article{
     font-size: small;
-    
+}
+h1{
+    font-size: 250%;
 }
 
 ul li{
-    background-color: black;
-    color: white;
-    padding: 20px;
     display: inline;
 }
 
@@ -18,9 +22,8 @@ heading{
     font-size: small;
 }
 
-h1{
-    font-size: 250%;
-}
+
+
    
 * u {
     color: white;
@@ -53,20 +56,20 @@ header p{
 
 @media screen and (max-width: 768px) {
     html{
-        font-size: 30px;
-        }
-        aside{
-            display: none;
-        }
-
-
-
-
-
- 
-        
-
+        font-size: 40px;
+    }
+    aside{
+        display: none;
+    }
+    a{
+        display: block;
+    {
+    u{
+        display: block-size: ;
+    }    
     
-    
+
+   
+
 
 
