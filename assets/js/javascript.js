@@ -1,4 +1,4 @@
-/console.log("texte affiché dans la console");
+console.log("texte affiché dans la console");
 document.write("votre âge");
 var reponse1 = window.prompt("Saisissez votre nom");
 var reponse2 = window.prompt("Saisissez votre prenom");
