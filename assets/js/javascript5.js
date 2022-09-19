@@ -1,9 +1,9 @@
 var reponse1 = window.prompt("Saisissez votre nom");
 var reponse2 = window.prompt("Saisissez votre prenom");
-var reponse3 = window.prompt("etre-vous un homme");
-window.alert("bonjour monsieur"robillard+repose2 johnny  bienvenue sur notre site);
 
-if (window.confirm("Voulez-vous continuer ?") == true) 
-{ 
 
+if (window.confirm("Etes-vous un homme") == true) 
+{
+    var sex = "Monsieur"
 }
+window.alert("bonjour "+ sex +" "+reponse1+" "+reponse2+"\n\nbienvenue sur notre site web!");
