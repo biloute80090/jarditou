@@ -88,4 +88,4 @@ function sort(myTableau){
 }
 
 sort(myTableau);
-console.log(myTableau);
+console.log(myTableau);z
